@@ -12,10 +12,14 @@ h2{
 	border-bottom: 2px dotted grey;
 }
 h3{
-	
+
 }
 ul{
 	width: 200px;
 	text-align: left;
 	margin: 0 auto;
+}
+.tree{
+	width: 100%;
+	height: auto;
 }
